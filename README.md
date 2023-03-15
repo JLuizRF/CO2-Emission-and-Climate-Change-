@@ -1,7 +1,7 @@
 # Who is Paying the Highest Bill for the Biggest Economies CO2 Emission?
 
 ### Introduction:
-This project aims to explore the relationship between carbon dioxide (CO2) emissions and climate change by analyzing two datasets. The first dataset contains information on CO2 emissions from 1990 to 2019 for over 270 countries, while the second dataset provides data on changes in global surface temperature across all countries from 1970 to 2021.
+This project aims to explore the relationship between carbon dioxide (CO2) emissions and climate change by analyzing two datasets. The first dataset contains information on CO2 emissions from 1990 to 2019 for over 200 countries, while the second dataset provides data on changes in global surface temperature across all countries from 1970 to 2021.
 
 ### Project Goal:
 The primary goal of this project is to identify which countries are most affected by climate change and CO2 emissions. Additionally, the project aims to analyze the correlation between CO2 emissions and temperature change in these countries.
@@ -18,5 +18,7 @@ After analyzing the datasets, the project concluded that countries most affected
 ### Further Studies:
 In future studies, it would be beneficial to further analyze the correlation between CO2 emissions and temperature change in different countries. This could help identify the key drivers of climate change and inform policy decisions aimed at mitigating its impacts. Additionally, it would be useful to analyze the impact of climate change on other factors, such as food security, health, and the economy, to better understand the broader implications of climate change.
 
-#### If you want to get a deep understanding about all the data analizes process, check the [Jupytern Notebook]() 
+#### If you want to get a deep understanding about all the data analizes process, check the [Jupytern Notebook](https://github.com/JLuizRF/CO2-Emission-and-Climate-Change-/blob/main/Climate%20Change%20and%20CO2%20Emitters%20.ipynb) 
 #### Or fi you want to get a quik overview of the final analize, check the [tableau dashboard] (https://public.tableau.com/app/profile/jos.luiz3380/viz/ClimateChangeandCO2Emission/Dashboard1)
+
+##### I hope you can enjoy the analyzes and can get useful insights from it. I'm looking forward to hearing your feedback.
