@@ -1,7 +1,7 @@
 # Who is Paying the Highest Bill for the Biggest Economies CO2 Emission?
 
 ### Introduction:
-This project aims to explore the relationship between carbon dioxide (CO2) emissions and climate change by analyzing two datasets. The first dataset contains information on CO2 emissions from 1990 to 2019 for over 200 countries, while the second dataset provides data on changes in global surface temperature across all countries from 1970 to 2021.
+This project aims to explore the relationship between carbon dioxide (CO2) emissions and climate change by analyzing two datasets. The first dataset contains information on CO2 emissions from 1990 to 2019 for over 180 countries and big regions, while the second dataset provides data on changes in global surface temperature across all countries from 1970 to 2021.
 
 ### Project Goal:
 The primary goal of this project is to identify which countries are most affected by climate change and CO2 emissions. Additionally, the project aims to analyze the correlation between CO2 emissions and temperature change in these countries.
